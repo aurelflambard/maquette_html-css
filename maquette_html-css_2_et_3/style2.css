@@ -1,0 +1,183 @@
+header
+{
+    background-image: url(img/dotted.png);
+    width: 1000px;
+    margin: 0 auto;
+}
+nav
+{
+    display: flex;
+    justify-content: space-evenly;
+    width: 70%;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+a:hover
+{
+    color:red
+}
+.logo
+{
+    color: red;
+    position: relative;
+    height: 5vh;
+}
+.menu
+{
+display: flex;
+justify-content: space-around;
+align-items: center;
+height: 10vh;
+}
+.love
+{
+    color: red;
+    font-size: 30px;
+}
+.texte1
+{
+    color: white;
+    font-size: 30px;
+}
+.titre
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+}
+.espace
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.para
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.texte2
+{
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    width: 400px;
+    font-size: 18px;
+}
+section
+{
+   width: 1000px;
+   margin: 0 auto;
+   background: white;
+   height: 40vh;
+}
+.img-famille
+{
+    display: flex;
+    width: 800px;
+    align-items: center;
+}
+.img-parent
+{
+    background-image: url(img/dotted.png);
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30vh;
+}
+.img1,.img2,.img3
+{
+    width: 280px;
+    height: 23vh;
+    margin-right: 4px;
+}
+.corps
+{
+    margin:0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.selection
+{
+    position: relative;
+    left: 50px;
+    color: red;
+}
+article
+{
+    background-image: url(img/shapecopie.png);
+    height: 25vh;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.titre2
+{
+    font-size: 20px;
+}
+.contactus{
+    background: orange;
+    color: white;
+    padding: 4px;
+    border-radius: 2px;
+}
+.titre3
+{
+    overflow: hidden;
+    width: 700px;
+}
+.contact
+{
+    position: relative;
+    left: 50px;
+}
+footer
+{
+    background: black;
+    height: 15vh;
+    margin: 0 auto;
+    width: 1000px;
+}
+form
+{
+    color: white;
+    display: flex;
+    flex-direction: column;
+   
+
+}
+.reseau
+{
+    height: 10vh;
+}
+.lien
+{
+display: flex;
+justify-content: space-between;
+width: 1000px;
+}
+.copyright
+{
+    color: white;
+    text-align: center;
+}
+input
+{
+    border:none;
+    background: black;
+    border:1px solid black;
+}
+span
+{
+    font-size: 10px;
+}

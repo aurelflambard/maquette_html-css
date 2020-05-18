@@ -1,0 +1,167 @@
+#container
+{
+    margin: 0 auto;
+    width: 100%;
+}
+header
+{
+    margin: 0 auto;
+    width: 100%;
+    background-image: url(img/dotted.png);
+}
+article
+{
+    margin: 0 auto;
+    width: 100%;
+    background-image: url(img/shapecopie.png);
+}
+.bas-page
+{
+    background-image: url(img/shapecopie.png);
+}
+.menu
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+nav
+{
+    margin-right: 4%;
+    margin-top: 2%;
+}
+.titre1
+{
+    text-align: center;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    margin-left: 40px;
+    font-size:3.5vh;
+}
+.logo2
+{
+    position: relative;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+a:hover
+{
+  color: orangered;
+}
+.titre1
+{
+    color: white;
+    font-size: 11vh;
+    position: relative;
+    margin-top: 10vh;
+}
+.love
+{
+    color: orangered;
+}
+.espace
+{
+    text-align: center;
+    position: relative;
+    margin-top: 2vh;
+}
+.contenu1
+{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 54%;
+}
+.texte1
+{
+    text-align: center;
+    overflow: hidden;
+    font-size: 4vh;
+}
+article
+{
+    margin: 0 auto;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.doc1
+{
+    display: flex;
+    justify-content: center;
+}
+.titre3
+{
+    color: orangered;
+    position: relative;
+    font-size: 4vh;
+    margin-left: 5.5%;
+    margin-top: 2%;;
+  
+}
+.texte3
+{
+    
+    overflow: hidden;
+    font-size: 3vh;
+    margin-left: 2%;
+}
+.contenu2
+{
+    margin: 0 auto;
+    width: 90%;
+    margin-left: 5%;
+}
+.groupeimg
+{
+ margin: 0 auto;
+ display: flex;  
+ justify-content: center;
+ align-items: center; 
+ height: 60vh;
+}
+.img2
+{
+    margin-right: 2px;
+}
+.texte4
+{
+   text-align: center;
+   margin: 0 auto;
+   overflow: hidden;
+   width: 50%;
+   font-size: 3vh;
+   position: relative;
+   
+ 
+}
+.texte5
+{
+    color: orangered;
+    text-align:center;
+}
+.bas-page
+{
+justify-content: center;
+align-items: center;
+margin-top: 6vh;
+position: relative;
+
+}
+section
+{
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    background-image: url(img/shapecopie.png);
+    display: flex;
+}
+
