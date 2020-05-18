@@ -1,0 +1,157 @@
+body
+{
+    font-family: georgia;
+}
+header
+{
+    width: 1000px;
+    margin: 0 auto;
+    background: white;
+}
+
+.corps-page
+{
+    background: url( '/img/body-bg.png');
+    margin: 0 auto;
+    height: 80vh;
+}
+.menu1
+{
+    display: flex;
+    justify-content: space-between;    
+}
+.menu1 p
+{
+    font-style:italic;
+}
+.menu1 img
+{
+	width: 17px;
+    height: 16px;
+    position: relative;
+    left: 5%;
+    align-self: center;
+}
+.logo
+{
+	width: 20%;
+    height: 11vh;
+}
+li
+{
+	display: inline-block;
+}
+ul
+{
+	font-size: 15px;
+    align-self: flex-end;	
+}
+ul li a
+{
+	text-decoration: none;
+	color: black;
+	border-radius: 5px;
+	font-family: georgia;
+	padding: 8px;	
+}
+
+ul li a:hover
+{
+	background-color: #3db1ce;
+	color: white;
+
+}
+
+.zone-milieu 
+{
+    width: 1000px;
+    margin: 0 auto;
+}
+p
+{
+    position: relative;
+    top: 2px;
+}
+
+.zone-slogan p
+{
+    background: #3db1ce;
+    color: white;
+    margin: auto 0;
+}
+.zone-slogan2 p
+{
+    color: #3db1ce;
+    margin:  auto 0;
+    padding-top:3.5vh;
+}
+
+.contenu
+{
+    margin: 0 auto;
+    width: 1000px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.box
+{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+    background-color: white;
+    width: 300px;
+    border: 1px solid lightgrey;
+}
+.img
+{
+   padding: 3px;
+   margin: 0 auto;
+}
+.lien2:hover
+{
+    background: #3db1ce;
+}
+.lien2
+{
+    background: white;
+    border: 1px solid lightgrey;
+    padding-left: 6%;
+}
+.lien1:hover
+{
+    background: #3db1ce;
+}
+.lien1
+{
+    background: white;
+    border: 1px solid lightgrey;
+    padding-left: 6%;
+}
+.motsa
+{
+    color: #3db1ce;
+}
+.texte
+{
+    text-align: center;
+    color: grey;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    height: 25px;
+    padding: 3px;
+    background: #50c8e6a4;
+
+}
+.mots
+{
+    background: white;
+    border: 1 px solid lightgrey;
+}
+
+footer
+{
+    margin: 0 auto;
+    width: 1000px;
+    color: #3db1ce;
+}
