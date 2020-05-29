@@ -1,0 +1,214 @@
+body
+{
+    margin: 0 auto;
+    width: 100%;
+}
+
+.container
+{
+    margin: 0 auto;
+    width: 100%;
+    position: absolute;
+    z-index: -80;
+}
+header
+{
+   margin: 0 auto;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+.logo-gauche
+{
+    width: 30%;
+    position: relative;
+    margin-top: 3vh;
+}
+.lorem1
+{
+    font-size: 2vh;
+}
+.text-color
+{
+    color: coral;
+}
+.julien
+{
+    position: relative;
+    margin-left: 160px;
+}
+.panier a
+{
+ text-decoration: none;
+ color: black;
+}
+.panier
+{
+    border: 1px solid black;
+    background: white;
+}
+.img-panier
+{
+    border-right: 8px;
+}
+.conecteur 
+{
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+}
+.navigation
+{
+    margin-top: 50px;
+    border: 1 px solid black;
+}
+
+section
+{
+    margin: 0 auto;
+    background: black;
+    width: 100%;
+}
+article
+{
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: black;
+    align-items: center;
+}
+.img-article
+{
+    width:70%;
+}
+
+.grand-cadre
+{
+ margin: 0 auto;   
+ width: 70%;
+ background: white;
+ margin-bottom: -2vh;
+}
+.cadre1
+{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+   
+}
+.cadre
+{
+margin-top: 25px;
+padding-left: 10%;
+}
+.rayé
+{
+ text-decoration: line-through;
+ color: black;
+ font-size: 4vh;
+ padding-left: 8%;
+ padding-right: 8%;
+}
+.gant 
+{
+border: 1px solid black;
+box-shadow: 2px 0 2px 0 ;
+}
+.voir-vente 
+{
+    background: black;
+    color: white;
+    text-decoration: none;
+    font-size: 4vh;
+    width:10%;
+}
+.vvente
+{
+font-size: 4vh;
+
+
+}
+.nous-contactez a
+{
+    background: white;
+    text-decoration: none;
+    height: 4px;
+    color: black;
+}
+.parent-contactez
+{
+ justify-content: center;
+ align-items: center;
+ display: flex;
+ height: 5px;
+
+}
+footer{
+    margin: 0 auto;
+    width: 100%;
+    background-color: #4c4645;
+}
+.social
+{
+    display: flex;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding-top:5vh;
+}
+.social-img{
+    text-align:center;
+}
+.lorem{
+    color:white;
+}
+.pied
+{
+    text-align: center;
+}
+.espace
+{
+    width: 100%;
+    background-color: #4C4645;
+    height: 2vh;
+    position: relative;
+    top: -15px;
+}
+.descript
+{
+    position: relative;
+    z-index: 2;
+    bottom: 50px;
+    left : 80px;
+}
+.reduc
+{
+position: relative;
+z-index: 2;
+bottom: 420px;
+left: 340px;
+background: black;
+color: goldenrod;
+width: 10%;
+font-size: 3vh;
+}
+.vvente
+{
+position: relative;
+z-index: 2;
+bottom: 80px;
+color: goldenrod;
+left: 50px;
+}
+
+.logo-sociaux{
+   text-align:center;
+   padding-top:5vh;
+}
+
+.logo-img{
+    margin-left:2%;
+    margin-right:2%;
+}
